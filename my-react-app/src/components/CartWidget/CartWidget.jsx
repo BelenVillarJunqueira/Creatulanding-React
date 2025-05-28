@@ -5,7 +5,7 @@ const CartWidget = () => {
 return (
     <div className="cart-widget" style={{ display: 'flex', alignItems: 'center', gap: '5px' }}>
     <FaShoppingCart size={24} />
-    <span>3</span>
+    <span></span>
     </div>
 );
 };
